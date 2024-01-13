@@ -1,2 +1,2 @@
 # ZCZ
-you know what i mean
+This is a testing program for some technology
